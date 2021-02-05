@@ -23,7 +23,8 @@
 7.  Latest Blog
 8.  Logo Carousel
 9.  Contact
-10.  Footer
+10. Footer
+11. Product container
 
 -------------------------------------------------------------------*/
 
@@ -1019,10 +1020,10 @@ ol {
 }
 
 .single-banner .inner-text h4 {
-	color: #252525;
+	color: #ffffff;
 	font-weight: 700;
 	padding: 11px 28px;
-	background: #ffffff;
+	background: #740303;
 	border-radius: 2px;
 }
 
@@ -1080,7 +1081,7 @@ ol {
 	list-style: none;
 	display: inline-block;
 	font-size: 20px;
-	color: #b2b2b2;
+	color: #020202;
 	margin-right: 22px;
 	position: relative;
 	cursor: pointer;
